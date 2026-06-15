@@ -1,8 +1,8 @@
-joblib==1.4.2
-scikit-learn==1.4.2
-pandas==2.2.2
-numpy==1.26.4
-Flask==3.0.3
-statsmodels==0.14.2
 fastapi
 uvicorn
+joblib
+pandas
+numpy
+scikit-learn
+xgboost
+statsmodels
